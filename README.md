@@ -1,10 +1,16 @@
-- 👋 Hi, I’m ali
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning cse and other things
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: the longest word in arabic is "أَفَإِستَسقَينَاكُمُوها"
+# Hi there 👋, I'm Zer0v0
 
-<!---
-zer0v0w/zer0v0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Learning: Flutter, Dart, Supabase  
+🎨 Passion: Designing apps that touch the soul  
+🧠 Building: Tech + Art fusion experiences  
+
+## 🔧 Skills
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+
+## 🔗 Links
+[Website](https://zer0v0.dev) | [Twitter](https://twitter.com/zer0v0) | [LinkedIn](https://linkedin.com/in/zer0v0)
+
+![Zer0v0's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0v0&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zer0v0&theme=dark)](https://git.io/streak-stats)
