@@ -9,7 +9,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
 ## 🔗 Links
-[Website](https://zer0v0.dev) | [Twitter](https://twitter.com/zer0v0) | [LinkedIn](https://linkedin.com/in/zer0v0)
+[LinkedIn](https://linkedin.com/in/alikhwaira)
 
 ![Zer0v0's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0v0&show_icons=true&theme=tokyonight)
 
