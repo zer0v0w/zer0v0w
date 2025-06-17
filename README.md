@@ -2,6 +2,7 @@
 
 
 > I build fast, dynamic, and soulful tools using Flutter, Dart.
+> I use Arch BTW.
 
 ---
 
@@ -20,33 +21,12 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-and the list keeps growing
+and the list keeps growing...
 ---
 
-## 📊 GitHub Stats
-![Zer0v0's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0v0&show_icons=true&theme=tokyonight&hide=stars)
-[![GitHub Streak](https://streak-stats.demolab.com?user=zer0v0&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### 🎯 XP & Stats
+### 🎯 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zer0v0&show_icons=true&theme=tokyonight&hide=stars)
 [![XP Streak](https://streak-stats.demolab.com?user=zer0v0&theme=tokyonight)](https://git.io/streak-stats)
-
-### 🔥 Skills Overview
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0v0&layout=compact&theme=tokyonight)
-![RPG Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zer0v0&theme=tokyonight)
-
-[![Zer0v0's RPG Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zer0v0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Zer0v0's Contribution](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zer0v0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Zer0v0's Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zer0v0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 🧝‍♂️ Character Card: Zer0v0 the Creator
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zer0v0&show_icons=true&theme=tokyonight&hide=stars)
-[![XP Streak](https://streak-stats.demolab.com?user=zer0v0&theme=tokyonight)](https://git.io/streak-stats)
-![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0v0&layout=compact&theme=tokyonight)
 
 
 ---
