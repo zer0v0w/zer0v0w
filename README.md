@@ -6,14 +6,21 @@
 </p>
 
 <p align="center">
-  <strong>🎯 Building bold things with Flutter & vision.<br>
-  🎨 Making art the core, not the decoration.<br>
-  🧬 Live. Dynamic. Purposeful.</strong>
+  <img src="https://raw.githubusercontent.com/zer0v0/zer0v0/main/assets/facepixel.gif" width="80px" alt="Pixel Zer0v0" />
+</p>
+
+<p align="center">
+  <strong>🎯 Flutter artisan · 🎨 Purpose-first designer · ⚡ Velocity thinker</strong><br>
+  <sub><i>"I don't just build — I breathe life into logic."</i></sub>
 </p>
 
 <p align="center">
   <a href="https://zer0v0.github.io" target="_blank">
     <img src="https://raw.githubusercontent.com/zer0v0/zer0v0/main/preview.gif" width="600px" alt="Live Profile Preview"/>
   </a><br>
-  🔗 <b><a href="https://zer0v0.github.io">Explore My Real-Time Profile</a></b>
+  🔗 <b><a href="https://zer0v0.github.io">Enter the Interactive Profile</a></b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6f42c1&section=footer"/>
 </p>
