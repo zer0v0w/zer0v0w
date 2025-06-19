@@ -41,3 +41,19 @@
   <img src="https://streak-stats.demolab.com/?user=zer0v0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
 </p>
 
+## 🌳 Skill Tree
+
+- **Programming**  
+  - [![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)](https://flutter.dev)  
+  - [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)](https://dart.dev)  
+  - [![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://linux.org)  
+
+- **Design**  
+  - [![Pixel Art](https://img.shields.io/badge/Pixel_Art-pink?style=flat&logo=artstation)](#)  
+  - [![UI/UX](https://img.shields.io/badge/UI_UX-purple?style=flat)](#)  
+
+- **Mindset**  
+  - Rapid Learning  
+  - Problem Solving  
+
+
