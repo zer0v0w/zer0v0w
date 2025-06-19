@@ -15,11 +15,7 @@
   <a href="https://zer0v0.github.io" target="_blank">
     <img src="https://raw.githubusercontent.com/zer0v0/zer0v0/main/preview.gif" width="600px" alt="Live Profile Preview"/>
   </a><br>
-  🔗 <b><a href="https://zer0v0.github.io">Explore My Real-Time Profile</a></b>
 </p>
----
-
-
 ---
 
 ## 🛠️ Tools & Focus
@@ -38,7 +34,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zer0v0&theme=radical&show_icons=true&count_private=true&hide_title=true&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=zer0v0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
 </p>
 
 ## 🌳 Skill Tree
