@@ -33,13 +33,6 @@
 
 ---
 
-### 📌 Projects Snapshot
-- 🧮 `flutter_math_editor` → Nested LaTeX editor in Dart + Flutter
-- 📍 `realtime_locator` → Cross-platform device tracker using Flutter Map & REST
-- 🧪 `LatexParser` → Custom LaTeX parsing logic for symbolic interaction
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?zer0v0w&theme=github-dark&hide_border=true"/>
