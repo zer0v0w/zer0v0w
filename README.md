@@ -42,17 +42,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?zer0v0w&theme=github-dark&hide_border=true"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0v0w&layout=compact&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
 ### 🌐 Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/alikhwaira/)
-- 📸 [Instagram](https://www.instagram.com/alik.w.dev)
-- 🧠 [Threads](https://www.threads.net/@alik.w.dev)
+- 💼 [LinkedIn](www.linkedin.com/in/ali-khwaira-8a83b0369)
+- 📸 [Instagram](https://www.instagram.com/zer.0v0._/)
+- 🧠 [Threads](https://www.threads.com/@zer.0v0._)
 
 ---
 
