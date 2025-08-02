@@ -1,58 +1,59 @@
-<!-- Hero Section -->
-<h1 align="center">⚡ ALi -- Zer0v0w</h1>
-
+<h1 align="center">Ali Khwaira</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C77DFF&center=true&width=450&lines=Creative+Coder;Fast+%7C+Unique+%7C+Adaptive;Driven+by+Art+%2B+Code+%2B+Soul" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <strong>🎯 Building bold things with Flutter & vision.<br>
-  🎨 Making art the core, not the decoration.<br>
-  🧬 Live. Dynamic. Purposeful.</strong>
-</p>
-
-<p align="center">
-  <a href="https://zer0v0.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/zer0v0/zer0v0/main/preview.gif" width="600px" alt="Live Profile Preview"/>
-  </a><br>
+  <i>Software Engineer • Flutter Specialist • System Builder</i><br>
+  <i>Crafting ideas into tools | Rooted in Palestine 🇵🇸</i>
 </p>
 
 ---
 
+### 🛠️ Languages & Tools
 
-## 🛠️ Tools & Focus
+#### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white" />
+</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/art-black?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/focus-mental%2Fvisual-red?style=for-the-badge"/>
+#### 🧰 Tools & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Riverpod-0A0A0A?style=flat&logo=data:image/svg+xml;base64,..."/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
+</p>
+
+#### 📦 Backend / API
+<p>
+  <img src="https://img.shields.io/badge/REST API-005571?style=flat" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Stats
+### 📌 Projects Snapshot
+- 🧮 `flutter_math_editor` → Nested LaTeX editor in Dart + Flutter
+- 📍 `realtime_locator` → Cross-platform device tracker using Flutter Map & REST
+- 🧪 `LatexParser` → Custom LaTeX parsing logic for symbolic interaction
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zer0v0&theme=radical&show_icons=true&count_private=true&hide_title=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=github-dark&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🌳 Skill Tree
+### 🌐 Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/alikhwaira/)
+- 📸 [Instagram](https://www.instagram.com/alik.w.dev)
+- 🧠 [Threads](https://www.threads.net/@alik.w.dev)
 
-- **Programming**  
-  - [![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)](https://flutter.dev)  
-  - [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)](https://dart.dev)  
-  - [![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://linux.org)  
+---
 
-- **Design**  
-  - [![Pixel Art](https://img.shields.io/badge/Pixel_Art-pink?style=flat&logo=artstation)](#)  
-  - [![UI/UX](https://img.shields.io/badge/UI_UX-purple?style=flat)](#)  
-
-- **Mindset**  
-  - Rapid Learning  
-  - Problem Solving  
-
-
+> Minimalist by design. Maximalist in execution.
