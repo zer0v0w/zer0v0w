@@ -8,13 +8,6 @@ Building digital products with Archittes
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zer0v0w&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0v0w&layout=compact&theme=dracula" height="150" />
-</div>
-
----
-
 ### Tech Stack
 
 <div align="left">
