@@ -72,13 +72,8 @@ Software Engineering · QA
 
 <div align="center">
 
-<img src="YOUR_GIPHY_GIF_URL" width="180">
+<img src="https://giphy.com/gifs/Svoltastudenti-polimi-politecnicodimilano-politecnico-di-milano-LxAwk0rwFH4wcJSM9T" width="180">
 
-<br>
-
-<sub>🐤 just a duck.</sub>
-
-</div>
 <br>
 
 
