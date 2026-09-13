@@ -70,10 +70,16 @@ Software Engineering · QA
 
 <br>
 
-<img src="./duck.gif" width="100" alt="A duck swimming">
+<div align="center">
+
+<img src="YOUR_GIPHY_GIF_URL" width="180">
 
 <br>
 
 <sub>🐤 just a duck.</sub>
+
+</div>
+<br>
+
 
 </div>
